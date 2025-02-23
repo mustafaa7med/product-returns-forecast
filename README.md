@@ -9,3 +9,21 @@ Therefore, this project focuses on analyzing product returns and implementing ML
 - Improve Supply Chain Efficiency.
 - Enhance Customer Satisfaction.
 - Cost Reduction.
+
+### Tech Stacks:
+- Python
+- Numpy & Pandas
+- Matplotlib & Seaborn
+- Prophet
+- pmdarima
+- sklearn
+
+### Analytical Approach:
+- Exploratory Data Analysis (EDA)
+- Data Processing
+- Data Analysis
+- ML Model Diagnostics
+- Dicky-Fuller Test (Hypothesis Testing)
+- Prophet Time-Series Forecasting Model
+- Model Evaluation and Cross-Validation
+- Prophet Model Conclusion
