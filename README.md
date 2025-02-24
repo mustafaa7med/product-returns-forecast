@@ -18,6 +18,11 @@ Therefore, this project focuses on analyzing product returns and implementing ML
 - pmdarima
 - sklearn
 
+### ML Models:
+- Prophet
+- ARIMA
+- Random Forest
+
 ### Analytical Approach:
 - Exploratory Data Analysis (EDA)
 - Data Processing
@@ -27,3 +32,10 @@ Therefore, this project focuses on analyzing product returns and implementing ML
 - Prophet Time-Series Forecasting Model
 - Model Evaluation and Cross-Validation
 - Prophet Model Conclusion
+- ARIMA Forescasting Model
+- Model Evaluation
+- ARIMA Model Conclusion
+- Random Forest Forecasting Model
+- Random Forest Model Evaluation
+- Random Forest Conclusion
+- Models Comparison
