@@ -39,3 +39,6 @@ Therefore, this project focuses on analyzing product returns and implementing ML
 - Random Forest Model Evaluation
 - Random Forest Conclusion
 - Models Comparison
+
+------------
+*Full Project can be accessed through this link:* [Product_Returns_ML_Forecasting.ipynb](https://github.com/mustafaa7med/product-returns-forecast/blob/main/Product_Returns_ML_Forecasting.ipynb)
